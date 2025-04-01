@@ -1,7 +1,7 @@
 # 以此紀念  2017.04.22 ~ 2017.12.11
 # ShotStar 
 
-`ShotStar` 是我在國中時期寫的 Batch 小遊戲，靈感來自「面白革命」的經典手機遊戲 [ShotZombie](https://play.google.com/store/apps/details?id=jp.co.capsule.plus.shotzombie)。
+`ShotStar` 是我在國中時期寫的 Batch 小遊戲，靈感來自「面白革命」的經典手機遊戲 [ShotZombie]([https://play.google.com/store/apps/details?id=jp.co.capsule.plus.shotzombie](https://play.google.com/store/apps/details?id=net.capsuleplus.ShotZombie&hl=zh_TW))。
 
 ## 遊戲簡介
 
